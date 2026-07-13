@@ -1,0 +1,6 @@
+{
+  "name": "House Renovation App",
+  "description": "An elegant and modern interior design and house renovation application to browse furniture, customize styles, and schedule professional renovations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
