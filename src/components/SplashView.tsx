@@ -12,7 +12,7 @@ export default function SplashView({ onGetStarted }: SplashViewProps) {
         id="splash-bg" 
         className="absolute inset-0 bg-cover bg-center transition-all duration-1000 scale-105" 
         style={{ 
-          backgroundImage: `url('/src/assets/images/splash_background_1783979618315.jpg')`,
+          backgroundImage: `url('/assets/images/splash_background_1783979618315.jpg')`,
         }}
       />
       <div id="splash-overlay" className="absolute inset-0 bg-gradient-to-b from-black/30 via-neutral-950/20 to-neutral-950/80 z-0" />
