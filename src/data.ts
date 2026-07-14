@@ -97,3 +97,4 @@ export const serviceItems: ServiceItem[] = [
     duration: '2 - 3 Days'
   }
 ];
+
